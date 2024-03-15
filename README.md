@@ -41,19 +41,23 @@ Then you can pass this pannel, i will give you a configuration i like later.
 Go to the plugin's settings and cick on the sync tab (the 5th from the left).
 
 - Sync Mode : *"Periodic and On events"*
-- Periodic Sync interval => *5*
-- Sync on Save => *Off*
-- Sync on Editor Save => *On*
-- Sync on File Open => *On*
-- Sync on Start => *On*
-- Sync after merging => *Off*
+- Periodic Sync interval => **5**
+- Sync on Save => **Off**
+- Sync on Editor Save => **On**
+- Sync on File Open => **On**
+- Sync on Start => **On**
+- Sync after merging => **Off**
+  
 `----------------------------------------------------------`
-- Use the trash bin => *On*
-- Keep empty folder => *Off*
+
+- Use the trash bin => **On**
+- Keep empty folder => **Off**
+  
 `----------------------------------------------------------`
-- Always overwrite with a newer file => *On*
-- Postpone resolution of inactive files => *Off*
-- Postpone manual resolution of inactive files => *Off*
+
+- Always overwrite with a newer file => **On**
+- Postpone resolution of inactive files => **Off**
+- Postpone manual resolution of inactive files => **Off**
 
 
 
