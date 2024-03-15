@@ -5,8 +5,8 @@ if [ -z $(docker image ls | grep "couchdb") ]; then
 fi
 
 export hostname=localhost:5984
-export username=hsr
-export password='L3b0n$etµP'
+export username=username
+export password=password
 
 container_id=$(docker ps | grep "couchdb-for-ols" | awk '{print $1}')
 
