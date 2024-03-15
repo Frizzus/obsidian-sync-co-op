@@ -26,8 +26,8 @@ if [ -z "$container_id" ]; then
                                 --restart always \
                                 -e COUCHDB_USER=$username \
                                 -e COUCHDB_PASSWORD=$password \
-                                -v ./couchdb-data:/opt/couchdb/data \
-                                -v ./couchdb-etc:/opt/couchdb/etc/local.d \
+                                -v ${PWD}/couchdb-data:/opt/couchdb/data \
+                                -v ${PWD}/couchdb-etc:/opt/couchdb/etc/local.d \
                                 -p 5984:5984 \
                                 --network host \
                                 couchdb)
