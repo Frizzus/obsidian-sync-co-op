@@ -40,20 +40,20 @@ Then you can pass this pannel, i will give you a configuration i like later.
 
 Go to the plugin's settings and cick on the sync tab (the 5th from the left).
 
-- Sync Mode => <strong style="color: purple;">"Periodic and On events"</strong>
-- Periodic Sync interval => <strong style="color: purple;">5</strong>
-- Sync on Save => <strong style="color: red;">Off</strong>
-- Sync on Editor Save => <strong style="color: green;">On</strong>
-- Sync on File Open => <strong style="color: green;">On</strong>
-- Sync on Start => <strong style="color: green;">On</strong>
-- Sync after merging => <strong style="color: red;">Off</strong>
+- Sync Mode => <code style="color: purple;">"Periodic and On events"</code>
+- Periodic Sync interval => <code style="color: purple;">5<code/>
+- Sync on Save => <code style="color: red;">Off<code/>
+- Sync on Editor Save => <code style="color: green;">On<code/>
+- Sync on File Open => <code style="color: green;">On<code/>
+- Sync on Start => <code style="color: green;">On<code/>
+- Sync after merging => <code style="color: red;">Off<code/>
 `----------------------------------------------------------`
-- Use the trash bin => <strong style="color: green;">On</strong>
-- Keep empty folder => <strong style="color: red;">Off</strong>
+- Use the trash bin => <code style="color: green;">On<code/>
+- Keep empty folder => <code style="color: red;">Off<code/>
 `----------------------------------------------------------`
-- Always overwrite with a newer file => <strong style="color: green;">On</strong>
-- Postpone resolution of inactive files => <strong style="color: red;">Off</strong>
-- Postpone manual resolution of inactive files => <strong style="color: red;">Off</strong>
+- Always overwrite with a newer file => <code style="color: green;">On<code/>
+- Postpone resolution of inactive files => <code style="color: red;">Off<code/>
+- Postpone manual resolution of inactive files => <code style="color: red;">Off<code/>
 
 
 
