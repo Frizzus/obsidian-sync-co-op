@@ -40,20 +40,20 @@ Then you can pass this pannel, i will give you a configuration i like later.
 
 Go to the plugin's settings and cick on the sync tab (the 5th from the left).
 
-- Sync Mode : <code style="color: purple;">"Periodic and On events"</code>
-- Periodic Sync interval => <code style="color: purple;">5</code>
-- Sync on Save => <code style="color: red;">Off</code>
-- Sync on Editor Save => <code style="color: green;">On</code>
-- Sync on File Open => <code style="color: green;">On</code>
-- Sync on Start => <code style="color: green;">On</code>
-- Sync after merging => <code style="color: red;">Off</code>
+- Sync Mode : *"Periodic and On events"*
+- Periodic Sync interval => *5*
+- Sync on Save => *Off*
+- Sync on Editor Save => *On*
+- Sync on File Open => *On*
+- Sync on Start => *On*
+- Sync after merging => *Off*
 `----------------------------------------------------------`
-- Use the trash bin => <code style="color: green;">On</code>
-- Keep empty folder => <code style="color: red;">Off</code>
+- Use the trash bin => *On*
+- Keep empty folder => *Off*
 `----------------------------------------------------------`
-- Always overwrite with a newer file => <code style="color: green;">On</code>
-- Postpone resolution of inactive files => <code style="color: red;">Off</code>
-- Postpone manual resolution of inactive files => <code style="color: red;">Off</code>
+- Always overwrite with a newer file => *On*
+- Postpone resolution of inactive files => *Off*
+- Postpone manual resolution of inactive files => *Off*
 
 
 
