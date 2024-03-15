@@ -40,7 +40,7 @@ Then you can pass this pannel, i will give you a configuration i like later.
 
 Go to the plugin's settings and cick on the sync tab (the 5th from the left).
 
-- Sync Mode => <code style="color: purple;">"Periodic and On events"</code>
+- Sync Mode : <code style="color: purple;">"Periodic and On events"</code>
 - Periodic Sync interval => <code style="color: purple;">5<code/>
 - Sync on Save => <code style="color: red;">Off<code/>
 - Sync on Editor Save => <code style="color: green;">On<code/>
